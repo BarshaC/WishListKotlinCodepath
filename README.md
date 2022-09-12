@@ -29,7 +29,6 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Walkthrough_Unit2](https://user-images.githubusercontent.com/64405568/189730356-58bdb832-ac47-4958-b585-535b45ef8f94.gif)
 
 GIF created with ...  
 <!-- Recommended tools:
@@ -55,3 +54,5 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+![Walkthrough_Unit2](https://user-images.githubusercontent.com/64405568/189730696-175619a6-552f-4cad-ac3a-7d112b93497c.gif)
