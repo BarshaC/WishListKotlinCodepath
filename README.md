@@ -1,4 +1,3 @@
-# WishListKotlinCodepath
 # Android Project 2 - *WishList*
 
 Submitted by: **Barsha Chaudhary**
@@ -23,23 +22,23 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
- - save the data to the database and upadate and delete it 
+* [ ] CardView to make the app look more organized
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Walkthrough_Unit2](https://user-images.githubusercontent.com/64405568/189730356-58bdb832-ac47-4958-b585-535b45ef8f94.gif)
 
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-![Walkthrough_Unit2](https://user-images.githubusercontent.com/64405568/189729935-c49809ec-a091-4cef-a734-348713104463.gif)
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-- While adding stretch feature couldn't figure out how to make the on click listener work from the recyclerview
 
 ## License
 
